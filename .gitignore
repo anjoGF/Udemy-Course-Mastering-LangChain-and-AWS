@@ -1,28 +1,5 @@
-# Ignore everything
-*
-
-# But not these files...
-!/.gitignore
-!Return_Empty_Result.py
-!build_docker.sh
-!deploy-langchain-app.sh
-!financial_data.db
-!push_to_ecr.sh
-!run_redis_service.sh
-!setup_environment.sh
-!test_connection.py
-!create_docker_network.sh
-!ecr_authenticate_and_tag.sh
-!initialize_agent.py
-!requirements.txt
-!set_requirements.sh
-!setup_rds_database.py
-!test_init.py
-!Dockerfile
-!app.py
-!create_rds_instance.sh
-!fetch_insert_data.py
-!run_container.sh
-!setup_database.py
-
-
+.venv/
+__pycache__/
+*.log
+.DS_Store
+node_modules/
