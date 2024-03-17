@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+pandas-datareader
+redis
+openai
+tiktoken
+faiss-cpu
+SQLAlchemy
+python-dotenv
+google-search-results
+Flask
+psycopg2-binary
+langchain-community
+langchain-openai 
+langchain-experimental 
+python-dateutil
