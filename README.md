@@ -62,11 +62,14 @@ Welcome to the GitHub repository for "Mastering LangChain and AWS: A Guide to Ec
 
 ### Repository Structure
 
-- `/labs` - Coding labs and exercises
-- `/scripts` - Scripts for database setup, data insertion, and more
-- `/notebooks` - Jupyter notebooks for hands-on practice
-- `/docs` - Documentation and guides
-- `/projects` - Project files and templates
+- `/data` - Contains datasets and data-related files.
+- `/notebooks` - Jupyter notebooks for hands-on practice and analysis.
+- `/scripts` - Utility scripts for environment setup, data processing, and other automation tasks. These are helper functions not part of the course but could be helpful. 
+- `/src` - Source code for the project, including Python scripts and modules for analysis, data fetching, and application logic.
+- `.gitignore` - Specifies intentionally untracked files to ignore.
+- `README.md` - This file, providing an overview of the project, setup instructions, and other essential information.
+- `requirements.txt` - Lists all Python dependencies required for the project. Install them using `pip install -r requirements.txt`.
+- `task-definition.json` - AWS ECS task definition file for container configuration and deployment.
 
 ### Getting Started
 
