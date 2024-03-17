@@ -81,10 +81,6 @@ git clone [https://github.com/anjoGF/Udemy-Course-Mastering-LangChain-and-AWS.gi
 
 Navigate to the specific directories to access the course materials, labs, and projects.
 
-### Contributions
-
-Contributions to this course are welcome. Please submit a pull request or open an issue for any suggestions, corrections, or enhancements.
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
